@@ -1,0 +1,16 @@
+{
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+      "total": "3",
+      "count": "2",
+      "show_switch": {
+        "total": true,
+        "count": true
+      },
+      "abtest": {
+        "group": "b"
+      }
+    }
+  }
